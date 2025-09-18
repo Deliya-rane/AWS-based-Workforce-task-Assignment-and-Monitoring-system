@@ -34,5 +34,14 @@ A cloud-based system designed to streamline workforce management by enabling tas
 * Serverless architecture with AWS Lambda and managed services
 * Real-time monitoring and secure data storage
 
+## Architecture Diagram
+Main Diagram
+![architecture Diagram](https://github.com/user-attachments/assets/95416b05-0963-40b0-b0bc-be460ea8a0fa)
+
+Task Monitor with AWS Cognito and CloudWatch Flow Diagram
+<img width="2140" height="500" alt="image" src="https://github.com/user-attachments/assets/2fa3a418-1f90-4ed0-9f73-99e8d32b66fb" />
+
+
+
 
 
