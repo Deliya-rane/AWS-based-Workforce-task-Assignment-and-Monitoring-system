@@ -1,0 +1,50 @@
+AWS Workforce Task Assignment and Monitoring System
+
+Description:
+A cloud-based system designed to streamline workforce management by enabling task assignment, tracking, and monitoring using AWS services. The system leverages AWS’s scalable and secure ecosystem to provide real-time insights into workforce activities without requiring traditional server hosting or custom backend development.
+
+Key Features:
+
+Assign tasks to workforce members dynamically.
+
+Monitor task progress in real-time.
+
+Generate notifications and alerts using AWS SNS and SQS.
+
+Secure user authentication and authorization via AWS Cognito.
+
+Centralized data storage and management with AWS RDS and S3.
+
+Automated logging and monitoring using AWS CloudWatch and Flow Logs.
+
+Optional integration of AWS Lambda for serverless task automation.
+
+AWS Services Used:
+
+IAM – Identity and access management for secure user roles.
+
+VPC & Flow Logs – Network isolation and activity logging.
+
+Cognito – User authentication and management.
+
+RDS – Relational database for task and user data.
+
+S3 – Storage of task-related files and reports.
+
+SNS & SQS – Notifications and messaging queues.
+
+Lambda – Serverless automation of workflows.
+
+CloudWatch – Monitoring and logging.
+
+KMS – Data encryption and key management.
+
+WAF – Web application firewall for enhanced security.
+
+Technology Stack:
+
+100% AWS-managed services (no external servers).
+
+Serverless architecture with Lambda and managed services.
+
+Real-time monitoring and secure data storage.
